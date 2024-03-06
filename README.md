@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋! My name is Lorenz and I'm a from Austria!</h2>
 
 ###
+<div align="center">
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/languages.svg#gh-light-mode-only)
+</div>
 
 ###
 
