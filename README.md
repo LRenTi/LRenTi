@@ -1,16 +1,14 @@
 <h2 align="left">Hi 👋! My name is Lorenz and I'm a from Austria!</h2>
 
 ###
-<div align="center">
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lrenti/stats/master/generated/languages.svg#gh-light-mode-only)
-</div>
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
